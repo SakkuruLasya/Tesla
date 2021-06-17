@@ -1,0 +1,65 @@
+ABSTRACT:
+A Personal Digital Assistant , also called AI assistant or Digital voice assistant, is
+an application program that understands natural language voice commands and completes tasks
+for the user. Some virtual assistants are able to interpret human speech and respond via
+synthesized voices. Users can ask their assistants questions, control home automation devices
+and media playback via voice, and manage other basic tasks such as email, to-do lists, and
+calendars with verbal commands. Virtual Assistants are software programs that help you ease
+your day to day tasks, such as showing weather report, creating reminders, making shopping
+lists etc. They can take commands via text (online chat bots) or by voice.
+
+OBJECTIVES :
+Many devices we use every day utilize voice assistants. They’re on our smartphones and
+inside smart speakers in our homes. Many mobile apps and operating systems use
+them. Additionally, certain technology in cars, as well as in retail, education, healthcare, and
+telecommunications environments, can be operated by voices. Our MAIN OBJECTIVE is to reduce the workload of the User by assisting him Virtually
+and completing his tasks intended with the help of our Virtual Assistant. Personal assistant
+software improves user productivity by managing routine tasks of the user and by providing
+information from online sources to the user. 
+
+SCOPE :
+Much of what virtual assistants do now are basic skills, such as retrieving data and basic
+computation. As natural language processing (NLP) continues to mature, virtual assistants will
+improve their response capabilities, allowing for their use to become more widespread and
+complex. Also, as machine learning progresses, we may see virtual assistants become smarter
+and begin to learn and predict customer needs. The user experience will become much better, making interactions richer and more natural. Their ability to process information on-device will open a whole new range of opportunities. All in all, virtual assistants will become more complex ecosystems that can support you in
+multiple areas of your everyday lives.
+
+MODULE :
+Python is an OOPs (Object Oriented Programming) based, high level, interpreted
+programming language. It is a robust, highly useful language focused on rapid application
+development (RAD). Python helps in easy writing and execution of codes. Python can
+implement the same logic with as much as 1/5 th code as compared to other OOPs languages. 
+
+PACKAGES USED : 
+ subprocess
+ playsound
+ twilio.rest  Client  clint.textui  progress
+ ecapture
+ pywhatkit  ecapture as ec
+ bs4
+ BeautifulSoup
+ email.message EmailMessage
+ win32com.client as wincl  urllib.request  urlopen
+ googletrans
+ gtts
+ wolframalpha
+ pyttsx3
+ tkinter  json
+ random
+ operator  speech_recognition as sr  datetime
+ psutil  pyautogui  wikipedia
+ webbrowser  os
+ winshell  pyjokes
+ feedparser  smtplib
+ ctypes
+ time
+ requests
+ shutil
+
+CONCLUSION:
+Through this voice assistant, we have automated various services using a single
+line command. It eases most of the tasks of the user like searching the web, retrieving weather
+forecast details, vocabulary help and related queries. We aim to make this project a complete
+server assistant and make it smart enough to act as a replacement for a general server
+administration.
